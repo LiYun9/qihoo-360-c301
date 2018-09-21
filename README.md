@@ -31,3 +31,12 @@ http://www.right.com.cn/forum/thread-209942-1-1.html
 注意全部搞完后，电脑网口还原成自动获取！
 
 https://www.cnblogs.com/52fhy/p/5229078.html
+
+
+http://downloads.openwrt.org/releases/18.06.1/targets/ar71xx/generic/
+这两个刷一个就行，如果本身是op了，就用升级版，如果是原版，就用初始版
+下载两个文件qihoo-c301-squashfs-factory.bin初始版
+qihoo-c301-squashfs-sysupgrade.bin升级版
+
+
+u-boot已经下载了，用winscp复制到对应位置，可以刷出来不死boot，看上面教程
