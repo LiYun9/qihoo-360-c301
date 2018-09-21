@@ -40,3 +40,4 @@ qihoo-c301-squashfs-sysupgrade.bin升级版
 
 
 u-boot已经下载了，用winscp复制到对应位置，可以刷出来不死boot，看上面教程
+
